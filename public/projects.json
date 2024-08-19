@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Apache Superset Integration",
+        "description": "An integration of Apache Superset with various data sources.",
+        "link": "https://github.com/example1",
+        "stages": 55,
+        "free": false,
+        "author": "Author 1"
+    },
+    {
+        "title": "Advanced LLM Integration",
+        "description": "A project integrating LLM with various tools.",
+        "link": "https://github.com/example2",
+        "stages": 11,
+        "free": true,
+        "author": "Author 2"
+    },
+    {
+        "title": "Data Visualization Tool",
+        "description": "A tool for visualizing data effectively.",
+        "link": "https://github.com/example3",
+        "stages": 12,
+        "free": false,
+        "author": "Author 3"
+    },
+    {
+        "title": "Trino 416 Integration",
+        "description": "An integration of Apache Superset with various data sources.",
+        "link": "https://github.com/example1",
+        "stages": 55,
+        "free": false,
+        "author": "Author 1"
+    },
+    {
+        "title": "Kubernetes with LLM",
+        "description": "Kubernetes integration with LLM.",
+        "link": "https://github.com/example2",
+        "stages": 11,
+        "free": true,
+        "author": "Author 2"
+    },
+    {
+        "title": "Redis with API",
+        "description": "Redis integration with API.",
+        "link": "https://github.com/example3",
+        "stages": 12,
+        "free": false,
+        "author": "Author 3"
+    }
+]
